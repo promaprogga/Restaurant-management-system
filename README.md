@@ -10,7 +10,7 @@ online through the system.
 The system has a panel where the admins can add/delete restaurants, 
 update/create/delete menus, handle orders, and generate reports.
 
-Framework: Django
-Language: Python
-Design: HTML, Sass, CSS, JavaScript, jQuery
-Database: SQLite3
+* Framework: Django
+* Language: Python
+* Design: HTML, Sass, CSS, JavaScript, jQuery
+* Database: SQLite3
